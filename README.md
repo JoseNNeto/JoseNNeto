@@ -1,4 +1,8 @@
-### Hi there 👋
+## Seja bem vindo(a)! Sou José Neto.
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseNNeto&show_icons=true&theme=tokyonight&include_all_commit=true&count_private=true">
+</div>
 
 <!--
 **JoseNNeto/JoseNNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
