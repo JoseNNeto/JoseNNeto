@@ -1,7 +1,7 @@
 ## Seja bem vindo(a)! Sou José Neto.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseNNeto&show_icons=false&theme=tokyonight&count_private=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseNNeto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseNNeto&layout=donut&theme=tokyonight">
 </div>
 
